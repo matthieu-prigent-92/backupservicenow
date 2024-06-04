@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Vendeur)">cddb6fce932202107acb3aaefaba1001</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Vendeur)</name>
+        <order/>
+        <parent>b0db2fce932202107acb3aaefaba10ca</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:52</sys_created_on>
+        <sys_id>c1db6fce932202107acb3aaefaba1049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Vendeur)</sys_name>
+        <sys_package display_value="Suivi des dépenses d'un bébé" source="x_891825_baby">aef9e30e932202107acb3aaefaba1013</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suivi des dépenses d'un bébé">aef9e30e932202107acb3aaefaba1013</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c1db6fce932202107acb3aaefaba1049</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:52</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1db6fce932202107acb3aaefaba1049"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c1db6fce932202107acb3aaefaba1049</documentkey>
+        <fieldname>description</fieldname>
+        <language>fr.FR</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:52</sys_created_on>
+        <sys_id>09db6fce932202107acb3aaefaba1049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:52</sys_updated_on>
+        <tablename>sys_sg_button_instance</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

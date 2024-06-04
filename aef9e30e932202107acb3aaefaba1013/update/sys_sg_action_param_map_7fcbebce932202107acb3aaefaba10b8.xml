@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Baby Costs)">e3cbebce932202107acb3aaefaba1069</button>
+        <item_parameter display_value="Baby Costs u_rpt_economie">63cbebce932202107acb3aaefaba1068</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:46</sys_created_on>
+        <sys_id>7fcbebce932202107acb3aaefaba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>63cbebce932202107acb3aaefaba1068</sys_name>
+        <sys_package display_value="Suivi des dépenses d'un bébé" source="x_891825_baby">aef9e30e932202107acb3aaefaba1013</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suivi des dépenses d'un bébé">aef9e30e932202107acb3aaefaba1013</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_7fcbebce932202107acb3aaefaba10b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:46</sys_updated_on>
+        <ui_parameter display_value="u_rpt_economie">33cbebce932202107acb3aaefaba10b4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

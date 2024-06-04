@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Enfant)">28db2fce932202107acb3aaefaba1077</button>
+        <item_parameter display_value="Enfant u_enfant_mother">64db2fce932202107acb3aaefaba1076</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:49</sys_created_on>
+        <sys_id>64db2fce932202107acb3aaefaba108f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>64db2fce932202107acb3aaefaba1076</sys_name>
+        <sys_package display_value="Suivi des dépenses d'un bébé" source="x_891825_baby">aef9e30e932202107acb3aaefaba1013</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suivi des dépenses d'un bébé">aef9e30e932202107acb3aaefaba1013</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_64db2fce932202107acb3aaefaba108f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:49</sys_updated_on>
+        <ui_parameter display_value="Mère de l'enfant">e0db2fce932202107acb3aaefaba108a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

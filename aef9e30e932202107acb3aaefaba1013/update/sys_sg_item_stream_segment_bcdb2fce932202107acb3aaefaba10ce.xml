@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Vendeur Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Vendeurs">3cdb2fce932202107acb3aaefaba10c7</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:50</sys_created_on>
+        <sys_id>bcdb2fce932202107acb3aaefaba10ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendeur Item Stream Segment</sys_name>
+        <sys_package display_value="Suivi des dépenses d'un bébé" source="x_891825_baby">aef9e30e932202107acb3aaefaba1013</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suivi des dépenses d'un bébé">aef9e30e932202107acb3aaefaba1013</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_bcdb2fce932202107acb3aaefaba10ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:50</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

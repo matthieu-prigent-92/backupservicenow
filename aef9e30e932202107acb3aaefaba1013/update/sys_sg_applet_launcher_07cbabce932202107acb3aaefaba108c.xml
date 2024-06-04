@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Suivi des dépenses d'un bébé</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 09:22:43</sys_created_on>
+        <sys_id>07cbabce932202107acb3aaefaba108c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suivi des dépenses d'un bébé</sys_name>
+        <sys_package display_value="Suivi des dépenses d'un bébé" source="x_891825_baby">aef9e30e932202107acb3aaefaba1013</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suivi des dépenses d'un bébé">aef9e30e932202107acb3aaefaba1013</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_07cbabce932202107acb3aaefaba108c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 09:22:43</sys_updated_on>
+        <title>Suivi des dépenses d'un bébé</title>
+    </sys_sg_applet_launcher>
+</record_update>
